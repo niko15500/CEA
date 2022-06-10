@@ -407,11 +407,6 @@
 }
 
 @media screen and (max-width:576px) {
-
-.p-faq{
-  padding: 0 !important;
-}
-
     .carousel-whatsapp {
         position: absolute !important;
         right: 3rem
@@ -1359,11 +1354,6 @@ input {
 
 .tutorias-fw-b {
     font-weight: 700
-}
-
-.p-faq{
-
-  padding: 0 2em;
 }
 
 .interLineado{

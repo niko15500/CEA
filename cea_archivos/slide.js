@@ -1,14 +1,8 @@
 
-
+if(document.querySelector('#container-slider')){
    setInterval('fntExecuteSlide("next")',5000);
-
-
-
-
+}
 //------------------------------ LIST SLIDER -------------------------
-
-
-
 if(document.querySelector('.listslider')){
    let link = document.querySelectorAll(".listslider li a");
    link.forEach(function(link) {
